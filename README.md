@@ -2,7 +2,7 @@
 
 This repository documents the data and the codes for the data pre-processing, data analysis and figure generation used for the paper:
 
-Cao, W., Zahirovic, S., Flament, N., Williams, S., Golonka, J., and Müller, R. D.: Improving global paleogeography since the late Paleozoic using paleobiology, Biogeosciences, 14, 5425-5439, https://doi.org/10.5194/bg-14-5425-2017, 2017. 
+Cao, W., Zahirovic, S., Flament, N., Williams, S., Golonka, J., and Müller, R. D. 2017. Improving global paleogeography since the late Paleozoic using paleobiology, Biogeosciences, 14, 5425-5439, https://doi.org/10.5194/bg-14-5425-2017. 
 
 ## Code folder
 
